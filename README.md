@@ -11,7 +11,7 @@
 ### Featured Projects
 
 * **Healthcare Data Analysis** — Data analysis and Power BI visualization
-* * **IoT Smart Waste / Environmental Risk** — Sensor-data analysis and machine learning for environmental risk prediction
+* **IoT Smart Waste / Environmental Risk** — Sensor-data analysis and machine learning for environmental risk prediction
 * **Lung Cancer Prediction** — Machine learning models for lung cancer risk prediction and model explainability
 
 
