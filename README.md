@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Anupama 👋
 
-<!--
-**Anupama02I/Anupama02I** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year B.Sc. (Hons) Information Technology undergraduate specializing in Data Science at SLIIT
 
-Here are some ideas to get you started:
+📊 Interested in Data Science, Machine Learning, Data Analytics & Business Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Experienced in data analysis, data cleaning, visualization, and machine learning projects
+
+🛠️ Python | SQL | R | Excel | Power BI | Machine Learning | Git
+
+### Featured Projects
+
+* **Healthcare Data Analysis** — Data analysis and Power BI visualization
+* * **IoT Smart Waste / Environmental Risk** — Sensor-data analysis and machine learning for environmental risk prediction
+* **Lung Cancer Prediction** — Machine learning models for lung cancer risk prediction and model explainability
+
+
